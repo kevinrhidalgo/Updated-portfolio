@@ -1,0 +1,138 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/02/18/65/82/360_F_218658235_DWD73bzcb4Kl28d5rwuirxej1w5aUkEY.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+header{
+    background-color:#222222;
+    height:350px;
+    color: #e7decc;
+    font-weight: bolder; 
+  
+
+}
+
+.headerOne{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+
+.headerOne img{
+    width: 400px;
+    height: 300px;
+}
+
+#name{
+    font-size: 70px;
+}
+#titlehead{
+    display:flex;
+    justify-content:center ;
+    font-size: 60px;
+    font-family:'roboto', sans-serif;  
+}
+
+#clockbox{
+    display: flex;
+    justify-content: center;
+    font-size:40px;
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    font-size: 20px;
+    color:#e7decc;
+    text-decoration: none;
+    margin-left: 21px;
+    font-size: 20px;
+    display: inline;
+    flex-direction: row-reverse;
+  
+}
+
+marquee{
+    color:#b2560d;
+    
+   
+}
+#about{
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    color:#b2560d;
+}
+ .sectionOne p{
+     color:#e7decc;
+     font-size: 20px;
+     font-family: 'roboto'sans-serif;
+     margin:90px;
+     padding: 30px;
+     background-image: linear-gradient(to bottom right,navy , gray);
+ }
+
+ .sectionTwo{
+     background-color: #222222;
+     margin:30px;
+     padding: 30px 30px;
+ }
+ #work{
+    text-decoration:underline;
+     display: flex;
+     justify-content: center;
+     color:#e7decc;
+     font-family: 'roboto' sans-serif;
+     font-weight: bolder;
+ }
+ .cards{
+     display:flex;
+     flex-wrap: wrap;
+     flex-direction:row;
+     justify-content: space-around;
+ }
+ 
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    color:#e7decc;
+}
+
+.sectionThree{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+footer {
+    background-color:black;
+    height:auto; 
+    padding:2%;
+    text-align:center;
+    margin:auto;
+
+}
+
+footer p {
+    font-family: poppins;
+    text-align:center;
+    color: white;
+    font-size: 20px;
+    
+    letter-spacing:2px;
+
+}
+img{
+    height: 100px;
+    width:100px;
+}
+
