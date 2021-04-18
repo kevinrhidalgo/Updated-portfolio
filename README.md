@@ -35,9 +35,9 @@ Our professional portfolio is our resource to showcase all our finished projects
   kevinrhidalgo@Yahoo.com 
 
   # URL
-
+https://kevinrhidalgo.github.io/Updated-portfolio/
   # Portfolio
-
+![ss](https://user-images.githubusercontent.com/78196245/115137028-90310b00-9ff1-11eb-9d63-71f51f28a451.jpg)
 
  
   
