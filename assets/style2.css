@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://t3.ftcdn.net/jpg/02/18/65/82/360_F_218658235_DWD73bzcb4Kl28d5rwuirxej1w5aUkEY.jpg);
+    background-image: url(https://miro.medium.com/max/1024/1*9WeJrBj6pp-qnGjRGg2NUw.png);
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -59,7 +59,7 @@ nav a{
 }
 
 marquee{
-    color:#b2560d;
+    color:#3b1d0f;
     
    
 }
@@ -68,15 +68,15 @@ marquee{
     display: flex;
     justify-content: center;
     font-size: 80px;
-    color:#b2560d;
+    color:#3b1d0f;
 }
  .sectionOne p{
-     color:#e7decc;
+     color:#3b1d0f;
      font-size: 20px;
      font-family: 'roboto'sans-serif;
      margin:90px;
      padding: 30px;
-     background-image: linear-gradient(to bottom right,navy , gray);
+     background-image: linear-gradient(to bottom right,#1c4919, gray);
  }
 
  .sectionTwo{
