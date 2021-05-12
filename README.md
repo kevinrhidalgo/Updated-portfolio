@@ -24,7 +24,7 @@ Our professional portfolio is our resource to showcase all our finished projects
   # Contributors
   Kevin Hidalgo
   # Test
-  ipm test
+  npm test
   # Contact
   Moving forward, if you have questions or concerns feel free to contact me at the following given communcations: 
 
