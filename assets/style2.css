@@ -21,6 +21,10 @@ header{
     justify-content: space-around;
     flex-direction: row;
     width: 2200px;
+    padding-right: 400px;
+    padding-left: 400px;
+    
+
     
     
 }
@@ -31,9 +35,6 @@ header{
     height: 300px;
 }
 
-#name{
-    font-size: 70px;
-}
 #titlehead{
     display:flex;
     justify-content:center ;
@@ -136,7 +137,7 @@ footer {
     padding:2%;
     text-align:center;
     margin:auto;
-    width:2000px
+    width:2000px;
 
 }
 
@@ -145,8 +146,9 @@ footer p {
     text-align:center;
     color: white;
     font-size: 20px;
-    
     letter-spacing:2px;
+    
+    
 
 }
 img{
