@@ -134,7 +134,7 @@ section{
 footer {
     background-color:black;
     height:auto; 
-    padding:2%;
+    padding:20px;
     text-align:center;
     margin:auto;
     width:2000px;
@@ -147,7 +147,8 @@ footer p {
     color: white;
     font-size: 20px;
     letter-spacing:2px;
-    
+
+    padding-right: 600px;
     
 
 }
@@ -194,7 +195,7 @@ img{
   .projectImg > :first-child {
     position: absolute;
     background: #0d47a1aa;
-    width: 128px;
+    width: 123px;
     height: 192px;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
@@ -204,9 +205,9 @@ img{
 
   .projectImg::before {
     content: " ";
-    background: rgb(238, 238, 238);
-    height: calc(192px - 2 * 3px);
-    width: 50px;
+    background: gray;
+    height: 192px;
+    width: 40px;
     top: 3px;
     position: absolute;
     transform: translateX(calc(128px - 50px / 2 - 3px)) rotateY(90deg)
@@ -227,7 +228,7 @@ img{
    
   }
   
-  /**** Code for the books css ends here ****/
+  /**** Code for the projects css ends here ****/
 
   :root {
     --gray: #808080;
