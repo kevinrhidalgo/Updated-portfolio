@@ -1,7 +1,8 @@
 # Professional Portfolio
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    # Portfolio
-<img width="1241" alt="Screen Shot 2021-05-11 at 6 41 54 PM" src="https://user-images.githubusercontent.com/78196245/117893649-d09a4680-b288-11eb-906f-86562e8a6f52.png">
+![Screen Shot 2021-05-12 at 12 43 32 AM (2)](https://user-images.githubusercontent.com/78196245/117920296-a19dc800-b2bc-11eb-9439-94e9efc868cf.png)
+
   ## Description 
 Our professional portfolio is our resource to showcase all our finished projects that shows off our new skills skills in web development. We will use our portfolios for potential employers in the future.
   ## Table of Contents 
